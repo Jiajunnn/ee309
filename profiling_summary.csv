@@ -1,0 +1,2 @@
+avg_latency_ms,p99_latency_ms,peak_memory_kb,sensor_reads_bytes,writes_bytes,cpu_usage_pct,sys_memory_pct
+0.026591169473249465,0.09171782243356574,388.80859375,12160000,64000,15.2,28.0
